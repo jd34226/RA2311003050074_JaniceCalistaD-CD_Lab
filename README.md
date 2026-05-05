@@ -1,4 +1,4 @@
-# CompilerDesignLabs
+# Compiler Design Lab
 This repository contains 15 lab experiments for Compiler Design (21CSC304J)
 
 ## Lab Experiments
@@ -18,6 +18,6 @@ This repository contains 15 lab experiments for Compiler Design (21CSC304J)
 14. Implementation of Global Data Flow Analysis  
 15. Storage Allocation Strategies (heap, stack, static)
 
-## 📝 Notes
+## Notes
 - This repo is for **college submission only**.  
 - All experiments are organized as separate files/folders.
